@@ -1,4 +1,4 @@
- [Holo Interactive](https://holoi.com) is a creative spatial computing lab, born from [Amber Garage](https://ambergarage.com) curated by [Botao Amber Hu](https://botao.hu).
+ [Holo Interactive](https://holoi.com) is a creative spatial computing lab, born from [Amber Garage](https://ambergarage.com) founded by [Botao Amber Hu](https://botao.hu).
 
 * *Innovation at its Best*: We have invented an optical see-through AR headset - [HoloKit](https://holokit.io).
 * *Full AR Functionalities*: Without reinventing the wheel, our open-source, phone-based AR headset maximizes your smartphone's existing AR functionalities, such as ARKit and LiDAR.
