@@ -1,6 +1,6 @@
  [Holo Interactive](https://holoi.com) is a creative spatial computing lab, previously [Amber Garage](https://ambergarage.com), founded by [Botao Amber Hu](https://botao.hu).
 
-* 🥽 **Innovation at its Best**: We have invented an stereoscopic optical see-through AR headset - [HoloKit X](https://holokit.io).
+* 🥽 **Innovation at its Best**: We have invented and released an stereoscopic optical see-through AR headset - [HoloKit X](https://holokit.io) - in 2022, which is a product-quality upgrade upon the original cardboard proof of concept - [HoloKit 1](https://1.holokit.io/) - released in 2017.
 * 📲 **Full AR Functionalities**: Without reinventing the wheel, our open-source, phone-based AR headset maximizes your smartphone's existing AR functionalities, such as ARKit and LiDAR.
 * 💲 **Accessible Immersion**: With a 60-degree FOV, experience a rich, immersive mixed reality that stands as a cost-effective alternative to pricier options like HoloLens and Magic Leap.
 * 🎨 **Designed for Creators**: Tailored for quick and efficient MR creative project execution, especially in multiplayer scenarios, HoloKit, is a go-to tool for MR researchers, educators, and creators.
