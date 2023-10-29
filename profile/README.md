@@ -2,7 +2,7 @@
 
 * 🥽 **Innovation at its Best**: We have released an stereoscopic optical see-through AR headset [HoloKit X](https://holokit.io) in 2022, that is a product-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
 * 📲 **Full AR Functionalities**: Without reinventing the wheel, our open-source, phone-based AR headset maximizes your smartphone's existing AR functionalities, such as ARKit and LiDAR.
-* 💲 **Accessible Immersion**: With a 60-degree FOV, experience a rich, immersive mixed reality that stands as a cost-effective alternative to pricier options like HoloLens and Magic Leap.
+* 💲 **Accessible Immersion**: With a 60-degree FOV, experience a rich, immersive mixed reality that stands as a cost-effective alternative to 20x-30x pricier options like HoloLens and Magic Leap.
 * 🎨 **For Creators by Creators**: Tailored for quick and efficient MR creative project execution, especially in multiplayer scenarios, HoloKit, is a go-to tool for **MR researchers, educators, and creators**.
 
 Getting started: 
