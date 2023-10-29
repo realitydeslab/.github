@@ -34,10 +34,10 @@ Co-located Multiplayer represents an unique category in mixed reality scenarios.
    * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
    * [HoloKit x Adlocating Multiplayer Boilerplate](https://github.com/holoi/holokit-adlocating-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
 
-## Explorative more creative MR projects
+## Explore more creative MR projects
 
 * We open-sourced our explorative MR creative projects for your inspirations.
   * [Zuzaland](https://github.com/holoi/zuzaland), An innovative experiment aimed at constructing mixed reality monuments for the Network State, recognized and awarded at the hackathon in [Zuzalu](https://zuzalu.city), the world’s first pop-up city founded by [Vitalik Buterin](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/).
-  * [Becoming Bats](https://github.com/holoi/ultrasound-of-bats), an experiment enabling users to mimic bats by casting their voices as ultrasound waves, which are visually transported and reflected onto real-world surfaces through mixed reality.
+  * [Becoming Bats](https://github.com/holoi/becoming-bats), an experiment enabling users to mimic bats by casting their voices as ultrasound waves, which are visually transported and reflected onto real-world surfaces through mixed reality.
   * [Talking Olaf](https://github.com/holoi/talking-olaf), a mixed reality experiment that allows users to engage in real-time conversations with Olaf, a beloved Disney character, by utilizing ChatGPT, Voice Recognition, and Artificial Voice Generation technologies.
 
