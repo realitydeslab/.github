@@ -1,4 +1,4 @@
-[Holo Interactive](https://holoi.com), formerly known as [Amber Garage](https://ambergarage.com), is a creative spatial computing lab founded by [Botao Amber Hu](https://botao.hu). As the innovative force behind HoloKit and various transformative MR projects, Holo Interactive has garnered $7.5M in investments from top-tier VCs in Silicon Valley and China.
+[Holo Interactive](https://holoi.com), formerly known as [Amber Garage](https://ambergarage.com), is a creative spatial computing lab founded by [Botao Amber Hu](https://botao.hu). As the innovative force behind HoloKit and various transformative mixed reality (MR) projects, Holo Interactive has garnered $7.5M in investments from top-tier VCs in Silicon Valley and China.
 
 # HoloKit X
 * 🥽 **Ingenious Invention**: We have released an optical see-through stereoscopic MR headset [HoloKit X](https://holokit.io) in 2022, which is an [award-winning](https://www.red-dot.org/project/holokit-x-64930) premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017. 
