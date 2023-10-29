@@ -24,15 +24,17 @@ Our team is a blend of MR researchers, educators, and creators, making us the qu
 
 Co-located Multiplayer represents an unique category in mixed reality scenarios. Utilizing multiple HoloKits provides a cost-effective alternative to using multiple HoloLenses in these scenarios. Moreover, Spectator View, offering a critical tool for capturing and documenting the MR experience from a third-person perspective, is also a special form of co-located multiplayer. Our team is committed to innovatively pushing the boundaries in the realm of co-located multiplayer.
 
-* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies crossing handheld and headmounted AR devices. Awarded as the [best interactivity demo](https://www.youtube.com/watch?v=mCHEdItEx2s) in [CHI 2023](https://dl.acm.org/doi/abs/10.1145/3544549.3583935), honorable mention in best demo in ISMAR 2023, and awarded at Flow Hackathon.
+* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is our research project on co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies crossing handheld and headmounted AR devices. Awarded as the [best interactivity demo](https://www.youtube.com/watch?v=mCHEdItEx2s) in [CHI 2023](https://dl.acm.org/doi/abs/10.1145/3544549.3583935), honorable mention in best demo in ISMAR 2023, and awarded at Flow Hackathon.
+
+Based on our research, we open sourced: 
 
 * [Apple Multipeer Connectivity Unity plugin](https://github.com/holoi/apple-multipeer-connectivity-unity-plugin) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A specialized version of this plugin was also merged in [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity).
 
-<!--
 * [Adlocating](https://github.com/holoi/adlocating) is a Unity plugin for an on-device adhoc QRCode co-locating technology. 
--->
 
-* We created singleplayer and multiplayer boilerplate for quickly kickstarting your multiplayer MR project.
+## Boilerplates
+
+* We created boilerplate for quickly kickstarting your MR project.
    * [HoloKit Singleplayer Boilerplate](https://github.com/holoi/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
    * [HoloKit Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
    * [HoloKit Adlocating Multiplayer Boilerplate](https://github.com/holoi/holokit-adlocating-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
