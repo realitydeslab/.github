@@ -13,7 +13,7 @@
 * Read [Docs](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit. 
 * Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
 
-## More than just hardware
+## Gettting inspired
 
 Our team is a blend of MR researchers, educators, and creators, making us the quintessential users of HoloKit. Going beyond mere hardware, we are constantly at the forefront of experimenting and pioneering new creative paradigms in MR by leveraging HoloKit. By open-sourcing the majority of our innovations, we aim to inspire more people into the expansive realms of mixed reality.
 
