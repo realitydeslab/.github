@@ -7,6 +7,6 @@
 
 Getting started: 
 * Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
-* Read [Docs](https://docs.holokit.io/for-creators/unity/overview)
+* Read [Docs](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit. 
 * Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
-* We open [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer scenarios
+* We open-sourced [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer scenarios
