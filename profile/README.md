@@ -21,7 +21,7 @@ Our team is a blend of MR researchers, educators, and creators, making us the qu
 
 ### Co-located Multiplayer
 
-Co-located Multiplayer represents an unique category in mixed reality. Utilizing multiple HoloKits provides a cost-effective alternative to using multiple HoloLenses in these scenarios. Moreover, Spectator View, a special form of co-located multiplayer, enables a third-party to observe and engage with the MR experience from a third-person viewpoint. Our team is committed to innovatively pushing the boundaries in the realm of co-located multiplayer.
+Co-located Multiplayer represents an unique category in mixed reality scenarios. Utilizing multiple HoloKits provides a cost-effective alternative to using multiple HoloLenses in these scenarios. Moreover, Spectator View, offering a critical tool for capturing and documenting the MR experience from a third-person perspective, is also a special form of co-located multiplayer. Our team is committed to innovatively pushing the boundaries in the realm of co-located multiplayer.
 
 * [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies crossing handheld and headmounted AR devices. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023, and Flow Hackathon.
 
@@ -35,7 +35,7 @@ Co-located Multiplayer represents an unique category in mixed reality. Utilizing
    * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
    * [HoloKit x Adlocating Multiplayer Boilerplate](https://github.com/holoi/holokit-adlocating-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
 
-### Explorative MR creative projects
+### Explorative more creative MR projects
 
 * We open-sourced our explorative MR creative projects for your inspirations.
   * [Zuzaland](https://github.com/holoi/zuzaland), An innovative experiment aimed at constructing mixed reality monuments for the Network State, recognized and awarded at the hackathon in [Zuzalu](https://zuzalu.city), the world’s first pop-up city founded by [Vitalik Buterin](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/).
