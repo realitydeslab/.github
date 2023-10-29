@@ -14,6 +14,6 @@ Getting started:
   * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer in fixed scenarios (pre-scan required)  
   * [HoloKit x InstantColocation Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer in ad-hoc scenarios (pre-scan not required)
 
-Based on HoloKit, we created mixed reality creative projects:
+Based on HoloKit, we created award-winning MR creative projects:
 
 * [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a multiplayer MR game frameworking in the theme of casting in magic spells, where we explored paradigm of competitive, cooperative, asymmetric mixed reality game design strategy. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023.  
