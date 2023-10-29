@@ -6,7 +6,7 @@
 * 🎨 **For Creators by Creators**: Tailored for quick and efficient MR creative project execution, especially in multiplayer scenarios, HoloKit, is a go-to tool for **MR researchers, educators, and creators**.
 
 Getting started: 
-* Buy [HoloKit here](https://holokit.io/products/holokit-x) if you don't have one yet.
+* Buy HoloKit on [our website](https://holokit.io/products/holokit-x) or [Amazon](https://www.amazon.com/s?i=merchant-items&me=ASBKMHTMFQG2J).
 * Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
 * Read [Docs](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit. 
 * Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
