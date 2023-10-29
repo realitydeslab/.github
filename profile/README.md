@@ -16,4 +16,4 @@ Getting started:
 
 Based on HoloKit, we created mixed reality creative projects:
 
-* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a multiplayer game casting in magic spells. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023.  
+* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a multiplayer MR game frameworking in the theme of casting in magic spells, where we explored paradigm of competitive, cooperative, asymmetric mixed reality game design strategy. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023.  
