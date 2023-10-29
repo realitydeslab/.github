@@ -31,8 +31,9 @@ Co-located Multiplayer represents an unique category in mixed reality scenarios.
 -->
 
 * We created multiplayer boilerplate for quick kickstarting your multiplayer MR project.
-   * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
-   * [HoloKit x Adlocating Multiplayer Boilerplate](https://github.com/holoi/holokit-adlocating-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
+   * [HoloKit Singleplayer Boilerplate](https://github.com/holoi/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
+   * [HoloKit Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
+   * [HoloKit Adlocating Multiplayer Boilerplate](https://github.com/holoi/holokit-adlocating-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
 
 ## Explore more creative MR projects
 
