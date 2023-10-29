@@ -1,4 +1,4 @@
- [Holo Interactive](https://holoi.com) is a creative spatial computing lab, born from [Amber Garage](https://ambergarage.com) founded by [Botao Amber Hu](https://botao.hu).
+ [Holo Interactive](https://holoi.com) is a creative spatial computing lab, previously [Amber Garage](https://ambergarage.com), founded by [Botao Amber Hu](https://botao.hu).
 
 * 🥽 **Innovation at its Best**: We have invented an stereoscopic optical see-through AR headset - [HoloKit](https://holokit.io).
 * 📲 **Full AR Functionalities**: Without reinventing the wheel, our open-source, phone-based AR headset maximizes your smartphone's existing AR functionalities, such as ARKit and LiDAR.
@@ -13,3 +13,7 @@ Getting started:
 * We open-sourced sample creative projects for our inspirations.
   * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer in fixed scenarios (pre-scan required)  
   * [HoloKit x InstantColocation Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer in ad-hoc scenarios (pre-scan not required)
+
+Based on HoloKit, we created mixed reality creative projects:
+
+* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a multiplayer game casting in magic spells. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023.  
