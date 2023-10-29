@@ -27,9 +27,13 @@ Co-located Multiplayer represents an unique category in mixed reality. Utilizing
 
 * [Apple Multipeer Connectivity Unity plugin](https://github.com/holoi/apple-multipeer-connectivity-unity-plugin) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A specialized version of this plugin was also merged in [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity).
 
+<!--
+* [Adlocating](https://github.com/holoi/adlocating) is a Unity plugin for an on-device adhoc QRCode co-locating technology. 
+-->
+
 * We created multiplayer boilerplate for quick kickstarting your multiplayer MR project.
-   * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View
-   * [HoloKit x QRColocation Multiplayer Boilerplate](https://github.com/holoi/holokit-qrcolocation-holokit-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View
+   * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
+   * [HoloKit x Adlocating Multiplayer Boilerplate](https://github.com/holoi/holokit-adlocating-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
 
 ### Explorative MR creative projects
 
