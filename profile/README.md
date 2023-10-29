@@ -10,10 +10,12 @@ Getting started:
 * Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
 * Read [Docs](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit. 
 * Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
+
+More Than Just Hardware:
+Composed of MR researchers, educators, and creators, our team perfectly aligns with HoloKit's target users. 
+We delve beyond just hardware, continuously exploring and pioneering creative paradigms in MR leveraging HoloKit.
+
+* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023, and Flow Hackathon.
 * We open-sourced sample creative projects for your inspirations.
   * [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer in fixed scenarios (pre-scan required)  
   * [HoloKit x InstantColocation Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer in ad-hoc scenarios (pre-scan not required)
-
-Based on HoloKit, we also created award-winning MR creative projects:
-
-* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a multiplayer MR game framework by casting in magic spells, where we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023.  
