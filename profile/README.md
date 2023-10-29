@@ -5,6 +5,8 @@
 * 💲 **Accessible Immersion**: With a 60-degree FOV, experience a rich, immersive mixed reality that stands as a cost-effective alternative to pricier options like HoloLens and Magic Leap.
 * 🎨 **Designed for Creators**: Tailored for quick and efficient MR creative project execution, especially in multiplayer scenarios, HoloKit, is a go-to tool for MR researchers, educators, and creators.
 
-* [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk)
-* [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples)
-* [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-unity-sdk)
+Getting started: 
+* Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
+* Read [Docs](https://docs.holokit.io/for-creators/unity/overview)
+* Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
+* We open [HoloKit x Immersal Multiplayer Boilerplate](https://github.com/holoi/immersal-holokit-samples) for multiplayer scenarios
