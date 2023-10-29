@@ -19,7 +19,6 @@ Holo Interactive is the innovation driver behind HoloKit and related creative MR
 
 Our team is a blend of MR researchers, educators, and creators, making us the quintessential users of HoloKit. Going beyond mere hardware, we are constantly at the forefront of experimenting and pioneering new creative paradigms in MR by leveraging HoloKit. By open-sourcing the majority of our innovations, we aim to inspire more people into the expansive realms of mixed reality.
 
-* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023, and Flow Hackathon.
 * [Apple Multipeer Connectivity Unity plugin](https://github.com/holoi/apple-multipeer-connectivity-unity-plugin) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A specialized version of this plugin was also merged in [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity).
 
 * We created multiplayer boilerplate for quick kickstarting your multiplayer MR project.
@@ -27,6 +26,7 @@ Our team is a blend of MR researchers, educators, and creators, making us the qu
    * [HoloKit x QRColocation Multiplayer Boilerplate](https://github.com/holoi/holokit-qrcolocation-holokit-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required)
 
 * We open-sourced our explorative MR creative projects for your inspirations.
+  * [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023, and Flow Hackathon.
   * [Zuzaland](https://github.com/holoi/zuzaland), An innovative experiment aimed at constructing mixed reality monuments for the Network State, recognized and awarded at the hackathon in [Zuzalu](https://zuzalu.city), the world’s first pop-up city founded by [Vitalik Buterin](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/).
   * [Becoming Bats](https://github.com/holoi/ultrasound-of-bats), an experiment enabling users to mimic bats by casting their voices as ultrasound waves, which are visually transported and reflected onto real-world surfaces through mixed reality.
   * [Talking Olaf](https://github.com/holoi/talking-olaf), a mixed reality experiment that allows users to engage in real-time conversations with Olaf, a beloved Disney character, by utilizing ChatGPT, Voice Recognition, and Artificial Voice Generation technologies.
