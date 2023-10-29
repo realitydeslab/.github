@@ -14,7 +14,7 @@
 * Read [ARFoundation-Samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/main) to skim through the AR capabilities of your phone, consider utilizing them in MR with HoloKit.
 * Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
 
-# Gettting inspired
+# Getting inspired
 
 Our team is a blend of MR researchers, educators, and creators, making us the quintessential users of HoloKit. Going beyond mere hardware, we are constantly at the forefront of experimenting and pioneering new creative paradigms in MR by leveraging HoloKit. By open-sourcing the majority of our innovations, we aim to inspire more people into the expansive realms of mixed reality.
 
@@ -22,7 +22,7 @@ Our team is a blend of MR researchers, educators, and creators, making us the qu
 
 Co-located Multiplayer represents an unique category in mixed reality scenarios. Utilizing multiple HoloKits provides a cost-effective alternative to using multiple HoloLenses in these scenarios. Moreover, Spectator View, offering a critical tool for capturing and documenting the MR experience from a third-person perspective, is also a special form of co-located multiplayer. Our team is committed to innovatively pushing the boundaries in the realm of co-located multiplayer.
 
-* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies crossing handheld and headmounted AR devices. Awarded as the best interactivity demo in CHI 2023 and honorable mention in best demo in ISMAR 2023, and Flow Hackathon.
+* [Multiplayer Onsite Fighting Arena (MOFA)](https://mofa.ar) is a co-located multiplayer MR game framework for casting magic spells, in which we explored paradigms of competitive, cooperative, asymmetric mixed reality game design strategies crossing handheld and headmounted AR devices. Awarded as the best interactivity demo in [CHI 2023](https://www.youtube.com/watch?v=mCHEdItEx2s), honorable mention in best demo in ISMAR 2023, and awarded at Flow Hackathon.
 
 * [Apple Multipeer Connectivity Unity plugin](https://github.com/holoi/apple-multipeer-connectivity-unity-plugin) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A specialized version of this plugin was also merged in [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity).
 
