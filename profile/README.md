@@ -1,4 +1,5 @@
  [Holo Interactive](https://holoi.com) is a creative spatial computing lab, previously [Amber Garage](https://ambergarage.com), founded by [Botao Amber Hu](https://botao.hu).
+Holo Interactive is the innovation driver behind HoloKit and related creative MR projects.
 
 ## HoloKit 
 * 🥽 **Innovation at its Best**: We have released an stereoscopic optical see-through AR headset [HoloKit X](https://holokit.io) in 2022, which is an [award-winning](https://www.red-dot.org/project/holokit-x-64930) premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017. 
@@ -10,7 +11,8 @@
 
 * Buy HoloKit on [our website](https://holokit.io/products/holokit-x) or [Amazon](https://www.amazon.com/s?i=merchant-items&me=ASBKMHTMFQG2J).
 * Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
-* Read [Docs](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit. 
+* Read [Documentations](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit.
+* Read [ARFoundation-Samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/main) to skim through the AR capabilities of your phone, consider utilizing them in MR with HoloKit.
 * Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
 
 ## Gettting inspired
