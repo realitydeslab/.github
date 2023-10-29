@@ -4,7 +4,6 @@
 * 📲 **Full AR Functionalities**: Without reinventing the wheel, our open-source, phone-based AR headset maximizes your smartphone's existing AR functionalities, such as ARKit, hand-tracking and LiDAR.
 * 💲 **Accessible Immersion**: With a 60-degree FOV, experience a rich, immersive mixed reality that stands as a cost-effective alternative to 20x-30x pricier options like [HoloLens](https://www.microsoft.com/en-us/hololens/buy) and [Magic Leap](https://www.magicleap.com/buy-now).
 * 🎨 **For Creators by Creators**: Tailored for quick and efficient MR creative project execution, especially in multiplayer scenarios, HoloKit, is a go-to tool for **MR researchers, educators, and creators**.
-* 🎨 **"Arduino" for MR**: Our vision is that HoloKit X could be the easiest and high-quality entry-point for MR creative projects, similiar to [Arduino](https://www.arduino.cc/). 
 
 Getting started: 
 * Buy [HoloKit here](https://holokit.io/products/holokit-x) if you don't have one yet.
