@@ -1,3 +1,4 @@
+# Holo Interactive
 [Holo Interactive](https://holoi.com), formerly known as [Amber Garage](https://ambergarage.com), is a creative spatial computing lab founded by [Botao Amber Hu](https://botao.hu). As the innovative force behind HoloKit and various transformative mixed reality (MR) projects, Holo Interactive has successfully secured substantial funding from top-tier VCs in Silicon Valley and China. 
 
 # HoloKit X
