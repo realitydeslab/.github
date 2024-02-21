@@ -1,6 +1,8 @@
-# Holo Interactive
-[Holo Interactive](https://holoi.com), formerly known as [Amber Garage](https://ambergarage.com), is a creative spatial computing lab founded by [Botao Amber Hu](https://botao.hu)
-([@botaohu](https://github.com/botaohu)). As the innovative force behind HoloKit and various transformative mixed reality (MR) projects, Holo Interactive has successfully secured substantial funding from top-tier VCs in Silicon Valley and China. 
+# Reality Design Lab
+
+Reality Design Lab is an interdisciplinary research and design lab focused on the intersection of spatial computing and programmable cryptography. Led by [Botao Amber Hu](https://botao.hu)([@botaohu](https://github.com/botaohu)), this lab prioritizes the development of embodied interactions within mixed reality and the realm of blockchain-substrated artificial life. 
+
+Reality Design Lab is non-profit organizations sponsored by [Holo Interactive](https://holoi.com), which is the innovative force behind HoloKit. 
 
 # HoloKit X
 * 🥽 **Ingenious Invention**: We have released an optical see-through stereoscopic MR headset [HoloKit X](https://holokit.io) in 2022, which is an award-winning premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
